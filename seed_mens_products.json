@@ -1,0 +1,296 @@
+[
+  {
+    "path": "Products/shirt/shirt 2.jpg",
+    "name": "Men's Dress Shirt 2",
+    "price": 55.99,
+    "featured": false
+  },
+  {
+    "path": "Products/shirt/shirt 3.jpg",
+    "name": "Men's Dress Shirt 3",
+    "price": 58.99,
+    "featured": true
+  },
+  {
+    "path": "Products/shirt/shirt 4.jpg",
+    "name": "Men's Dress Shirt 4",
+    "price": 61.99,
+    "featured": false
+  },
+  {
+    "path": "Products/shirt/shurt 5.jpg",
+    "name": "Men's Dress Shirt 5",
+    "price": 49.99,
+    "featured": false
+  },
+  {
+    "path": "Products/shirt/shirt 6.jpg",
+    "name": "Men's Dress Shirt 6",
+    "price": 52.99,
+    "featured": true
+  },
+  {
+    "path": "Products/shirt/shirt 7.jpg",
+    "name": "Men's Dress Shirt 7",
+    "price": 55.99,
+    "featured": false
+  },
+  {
+    "path": "Products/shirt/shirt 9.jpg",
+    "name": "Men's Dress Shirt 8",
+    "price": 58.99,
+    "featured": false
+  },
+  {
+    "path": "Products/shirt/shirt 10.jpg",
+    "name": "Men's Dress Shirt 9",
+    "price": 61.99,
+    "featured": true
+  },
+  {
+    "path": "Products/shirt/shirt 11.jpg",
+    "name": "Men's Dress Shirt 10",
+    "price": 49.99,
+    "featured": false
+  },
+  {
+    "path": "Products/SUN GLASSES/S1.jpg",
+    "name": "Men's Sunglasses 1",
+    "price": 29.99,
+    "featured": true
+  },
+  {
+    "path": "Products/SUN GLASSES/S2.jpg",
+    "name": "Men's Sunglasses 2",
+    "price": 30.99,
+    "featured": true
+  },
+  {
+    "path": "Products/SUN GLASSES/S3.jpg",
+    "name": "Men's Sunglasses 3",
+    "price": 31.99,
+    "featured": true
+  },
+  {
+    "path": "Products/SUN GLASSES/S4.jpg",
+    "name": "Men's Sunglasses 4",
+    "price": 32.989999999999995,
+    "featured": false
+  },
+  {
+    "path": "Products/SUN GLASSES/S5.jpg",
+    "name": "Men's Sunglasses 5",
+    "price": 33.989999999999995,
+    "featured": false
+  },
+  {
+    "path": "Products/SUN GLASSES/S6.jpg",
+    "name": "Men's Sunglasses 6",
+    "price": 34.989999999999995,
+    "featured": false
+  },
+  {
+    "path": "Products/SUN GLASSES/S7.jpg",
+    "name": "Men's Sunglasses 7",
+    "price": 35.989999999999995,
+    "featured": false
+  },
+  {
+    "path": "Products/SUN GLASSES/S8.jpg",
+    "name": "Men's Sunglasses 8",
+    "price": 36.989999999999995,
+    "featured": false
+  },
+  {
+    "path": "Products/SUN GLASSES/S9.jpg",
+    "name": "Men's Sunglasses 9",
+    "price": 37.989999999999995,
+    "featured": false
+  },
+  {
+    "path": "Products/T SHIRTS/TE1.jpg",
+    "name": "Men's T-Shirt 1",
+    "price": 26.99,
+    "featured": false
+  },
+  {
+    "path": "Products/T SHIRTS/TE2.jpg",
+    "name": "Men's T-Shirt 2",
+    "price": 28.99,
+    "featured": false
+  },
+  {
+    "path": "Products/T SHIRTS/TE3.jpg",
+    "name": "Men's T-Shirt 3",
+    "price": 30.99,
+    "featured": false
+  },
+  {
+    "path": "Products/T SHIRTS/TE4.jpg",
+    "name": "Men's T-Shirt 4",
+    "price": 32.989999999999995,
+    "featured": true
+  },
+  {
+    "path": "Products/T SHIRTS/te5.jpg",
+    "name": "Men's T-Shirt 5",
+    "price": 34.989999999999995,
+    "featured": false
+  },
+  {
+    "path": "Products/T SHIRTS/TE6.jpg",
+    "name": "Men's T-Shirt 6",
+    "price": 36.989999999999995,
+    "featured": false
+  },
+  {
+    "path": "Products/T SHIRTS/TE7.jpg",
+    "name": "Men's T-Shirt 7",
+    "price": 24.99,
+    "featured": false
+  },
+  {
+    "path": "Products/T SHIRTS/TE8.jpg",
+    "name": "Men's T-Shirt 8",
+    "price": 26.99,
+    "featured": true
+  },
+  {
+    "path": "Products/T SHIRTS/TE9.jpg",
+    "name": "Men's T-Shirt 9",
+    "price": 28.99,
+    "featured": false
+  },
+  {
+    "path": "Products/T SHIRTS/TE10.jpg",
+    "name": "Men's T-Shirt 10",
+    "price": 30.99,
+    "featured": false
+  },
+  {
+    "path": "Products/T SHIRTS/TE12.jpg",
+    "name": "Men's T-Shirt 12",
+    "price": 34.989999999999995,
+    "featured": true
+  },
+  {
+    "path": "Products/T SHIRTS/TE13.jpg",
+    "name": "Men's T-Shirt 13",
+    "price": 36.989999999999995,
+    "featured": false
+  },
+  {
+    "path": "Products/trousers/t1.jpg",
+    "name": "Men's Trousers T1",
+    "price": 69.99000000000001,
+    "featured": false
+  },
+  {
+    "path": "Products/trousers/t2.jpg",
+    "name": "Men's Trousers T2",
+    "price": 62.99,
+    "featured": true
+  },
+  {
+    "path": "Products/trousers/t3.jpg",
+    "name": "Men's Trousers T3",
+    "price": 63.99,
+    "featured": false
+  },
+  {
+    "path": "Products/trousers/t4.jpg",
+    "name": "Men's Trousers T4",
+    "price": 58.99,
+    "featured": false
+  },
+  {
+    "path": "Products/trousers/t5.jpg",
+    "name": "Men's Trousers T5",
+    "price": 63.99,
+    "featured": false
+  },
+  {
+    "path": "Products/trousers/t6.jpg",
+    "name": "Men's Trousers T6",
+    "price": 53.99,
+    "featured": false
+  },
+  {
+    "path": "Products/trousers/T7.jpg",
+    "name": "Men's Trousers T7",
+    "price": 55.99,
+    "featured": false
+  },
+  {
+    "path": "Products/trousers/T8.jpg",
+    "name": "Men's Trousers T8",
+    "price": 64.99000000000001,
+    "featured": false
+  },
+  {
+    "path": "Products/trousers/T9.jpg",
+    "name": "Men's Trousers T9",
+    "price": 55.99,
+    "featured": false
+  },
+  {
+    "path": "Products/trousers/T10.jpg",
+    "name": "Men's Trousers T10",
+    "price": 67.99000000000001,
+    "featured": true
+  },
+  {
+    "path": "Products/trousers/T11.jpg",
+    "name": "Men's Trousers T11",
+    "price": 69.99000000000001,
+    "featured": false
+  },
+  {
+    "path": "Products/trousers/T12.jpg",
+    "name": "Men's Trousers T12",
+    "price": 56.99,
+    "featured": false
+  },
+  {
+    "path": "Products/WATCH/W1.jpg",
+    "name": "Men's Watch 1",
+    "price": 114.99,
+    "featured": true
+  },
+  {
+    "path": "Products/WATCH/W2.jpg",
+    "name": "Men's Watch 2",
+    "price": 129.99,
+    "featured": true
+  },
+  {
+    "path": "Products/WATCH/W3.jpg",
+    "name": "Men's Watch 3",
+    "price": 144.99,
+    "featured": false
+  },
+  {
+    "path": "Products/WATCH/W4.jpg",
+    "name": "Men's Watch 4",
+    "price": 159.99,
+    "featured": false
+  },
+  {
+    "path": "Products/WATCH/W5.jpg",
+    "name": "Men's Watch 5",
+    "price": 174.99,
+    "featured": false
+  },
+  {
+    "path": "Products/WATCH/W6.jpg",
+    "name": "Men's Watch 6",
+    "price": 189.99,
+    "featured": false
+  },
+  {
+    "path": "Products/WATCH/W7.jpg",
+    "name": "Men's Watch 7",
+    "price": 204.99,
+    "featured": false
+  }
+]

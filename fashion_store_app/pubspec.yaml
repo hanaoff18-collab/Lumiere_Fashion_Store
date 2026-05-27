@@ -1,0 +1,32 @@
+name: fashion_store_app
+description: Fashion Store Mobile Application - Frontend Only
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.3.5
+  google_fonts: ^6.2.1
+  
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.1
+  firebase_core: ^4.6.0
+  firebase_auth: ^6.3.0
+  cloud_firestore: ^6.2.0
+  firebase_storage: ^13.2.0
+  firebase_app_check: ^0.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/brands/
+    - assets/categories/
